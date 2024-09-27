@@ -1,0 +1,1 @@
+INSERT INTO produtos (nome, preco,descricao,foto) VALUES ('Coca cola', 10.99,'test','test');
